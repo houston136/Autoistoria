@@ -1,0 +1,439 @@
+   @media screen and (max-width: 1200px) {
+
+   }
+
+   @media screen and (max-width: 998px) {
+
+   }
+
+   @media screen and (max-width: 768px) {
+
+   }
+
+   @media screen and (max-width: 576px) {
+
+   }
+   
+   @media screen and (max-width: 480px) {
+
+   }
+   
+   @media screen and (max-width: 320px) {
+
+   }
+   
+   
+   img {
+    border-radius: 30px;
+   }
+   
+   
+   .logoshapka {
+    position: fixed;
+    background-color: rgb(31, 31, 31);
+    width: 5%;
+    height: 44px;
+    margin: 0px 0px;
+    left: 0px;
+    padding: 55px 150px;
+    top: 0px;
+    border-radius: 0px;
+   }
+   
+   
+   .shapka {
+    position: fixed;
+    background-color: rgb(31, 31, 31);
+    width: 100%;
+    height: 14%;
+    left: 0px;
+    top: 0px;
+    padding: 10px 140px;
+    margin: 0px 0px;
+    z-index: 1;
+  }
+
+  .shapka1 {
+    position: fixed;
+    background-color: rgb(31, 31, 31);
+    width: 100%;
+    height: 14%;
+    left: 0px;
+    top: 0px;
+    padding: 10px 180px;
+    margin: 0px 390px;
+    z-index: 2;
+  }
+
+  .shapka2 {
+    position: fixed;
+    background-color: rgb(31, 31, 31);
+    width: 100%;
+    height: 14%;
+    left: 0px;
+    top: 0px;
+    padding: 10px 10px;
+    margin: 0px 965px;
+    z-index: 3;
+  }
+
+  .shapka3 {
+    position: fixed;
+    background-color: rgb(31, 31, 31);
+    width: 100%;
+    height: 14%;
+    left: 0px;
+    top: 0px;
+    padding: 10px 200px;
+    margin: 0px 1350px;
+    z-index: 4;
+  }
+
+  .chriftshapka {
+    color: rgb(255, 255, 255);
+    font-family: Courier;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+  }
+
+  .chriftshapka1 {
+    color: rgb(255, 255, 255);
+    font-family: Courier;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    z-index: 8;
+  }
+
+  .chriftshapka2 {
+    color: rgb(255, 255, 255);
+    font-family: Courier;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+  }
+
+  .chriftshapka3 {
+    color: rgb(255, 255, 255);
+    font-family: Courier;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+  }
+
+  .seredinkalambo {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    height: 1000px;
+    padding: 5px 100px;
+    margin: 215px 500px;
+    z-index: 0;
+  }
+
+  .chelclamboy {
+    width: 1px;
+    height: 1px;
+  }
+
+  .traktorlamba {
+    width: 90%;
+    height: 55%;
+  }
+ 
+  .chrift {
+    color: #000000;
+  }
+
+  .lambachrift {
+    color: black;
+  }
+   
+  a:hover {
+    color: black;
+  }
+
+  P {
+    line-height: 2em;
+   }
+
+   .podpici {
+    padding: 0px 170px;
+  }
+
+  .podpici1 {
+    padding: 0px 200px;
+  }
+  
+  .podpici2 {
+    padding: 0px 200px;
+  }
+
+  .podpici3 {
+    padding: 0px 19px;
+  }
+
+   .cilkashapka {
+    background-color: rgb(31, 31, 31);
+    transition: background-color 0.5s;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   }
+
+
+   .cilka {
+    background-color: rgb(100, 100, 100); 
+    background-color: rgb(31, 31, 31);
+    transition: background-color 0.5s;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   }
+
+   .cilka1 {
+    transition: background-color 0.5s;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+   }
+
+   .chriftfooter {
+    color: rgb(255, 255, 255);
+    font-family: Courier;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+   }
+
+   .chriftfooter1 {
+    color: rgb(255, 255, 255);
+    font-family: Courier;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+   }
+
+   .chriftfooter2 {
+    color: rgb(255, 255, 255);
+    font-family: Courier;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+   }
+
+  .podval {
+    position: absolute;
+    background-color: rgb(31, 31, 31);
+    width: 35%;
+    height: 16%;
+    margin: 1900px 0px;
+    left: 0px;
+    padding: 0px 150px;
+    top: 300px;
+  }
+
+  .podval1 {
+    position: absolute;
+    background-color: rgb(31, 31, 31);
+    width: 35%;
+    height: 16%;
+    margin: 1900px 665px;
+    left: 0px;
+    padding: 0px 150px;
+    top: 300px;
+  }
+
+  .podval2 {
+    position: absolute;
+    background-color: rgb(31, 31, 31);
+    width: 15%;
+    height: 16%;
+    margin: 1900px 1333px;
+    left: 0px;
+    padding: 0px 140px;
+    top: 300px;
+  }
+
+ .kartinanaglavnou {
+    position: absolute;
+    margin: 210px 120px;
+    z-index: -3;
+    height: 32%;
+    width: 450px;
+ }
+
+  .kartinanaglavnou2 {
+    right: 100px;
+    position: absolute;
+    width:  450px;
+    margin: 210px 10px;
+  }
+
+  .kartinanaglavnou3 {
+    right: 100px;
+    position: absolute;
+    width:  448px;
+    height: 300px;
+    margin: 210px 630px;
+  }
+
+  .kartinanaglavnou4 {
+    position: absolute;
+    right: 100px;
+    height: 300px;
+    width:  455px;
+    margin: 600px 0px;
+    z-index: -4;
+  }
+
+  .kartinanaglavnou5 {
+    right: 100px;
+    position: absolute;
+    width:  448px;
+    height: 300px;
+    margin: 600px 630px;
+  }
+
+  .kartinanaglavnou6 {
+    position: absolute;
+    width:  420px;
+    margin: 600px 120px;
+    height: 300px;
+    z-index: -4;
+  }
+
+  .kartinanaglavnou7 {
+    position: absolute;
+    width:  22%;
+    height: 300px;
+    margin: 985px 120px;
+    z-index: -5;
+  }
+
+  .kartinanaglavnou8 {
+    right: 100px;
+    position: absolute;
+    width:  448px;
+    height: 300px;
+    margin: 985px 630px;
+  }
+
+  .kartinanaglavnou9 {
+    right: 100px;
+    position: absolute;
+    width:  450px;
+    height: 300px;
+    margin: 985px 10px;
+  }
+
+  .kartinanaglavnou10 {
+    position: absolute;
+    width:  22%;
+    height: 300px;
+    margin: 1370px 120px;
+    z-index: -5;
+  }
+
+  .kartinanaglavnou11 {
+    right: 100px;
+    position: absolute;
+    width:  448px;
+    height: 300px;
+    margin: 1370px 630px;
+  }
+
+  .kartinanaglavnou12 {
+    right: 100px;
+    position: absolute;
+    width:  450px;
+    height: 300px;
+    margin: 1370px 10px;
+  }
+
+  .kartinanaglavnou13 {
+    position: absolute;
+    width:  22%;
+    height: 300px;
+    margin: 1750px 120px;
+    z-index: -5;
+  }
+
+  .kartinanaglavnou14 { 
+    right: 100px;
+    position: absolute;
+    width:  448px;
+    height: 300px;
+    margin: 1750px 650px;
+  }
+
+  .kartinanaglavnou15 {
+    right: 100px;
+    position: absolute;
+    width:  450px;
+    height: 300px;
+    margin: 1750px 10px;
+  }
+
+
+  input::-webkit-input-placeholder {
+    color: #B6C0A5; 
+    font-style: italic; 
+    background: #E0EFCA;
+  }
+  input:-moz-placeholder {
+    color: #B6C0A5; 
+    font-style: italic; 
+    background: #E0EFCA;
+  }
+  input:-ms-input-placeholder {
+    color: #B6C0A5; 
+    font-style: italic; 
+    background: #E0EFCA;
+  }
+
+  .strokarazmer {
+    width: 250px;
+    margin-top: 27px;
+    margin-right: 1px;
+    z-index: 8;
+  }
+  
+ 
+  .kartinanaglavnouimg {
+    width:  450px;
+    height: 300px;
+  }
